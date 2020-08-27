@@ -1,0 +1,824 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="obesidad.com" resolutions="1x" timestamp="1598556439267">
+  <folder name="css">
+    <file name="site_global.css" crc="4239745548"/>
+    <file name="master_b-p_g_-maestra.css" crc="350842408" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_preview_master_b-p_g_-maestra.css" crc="4204873510" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-alex-maji--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="1275214" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-alex-maji--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="121229039" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-juan-velastegui--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4054215073" ref="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-juan-velastegui--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="146090719" ref="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-santiago-guerrero--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4291130260" ref="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-santiago-guerrero--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="178177740" ref="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-juan-ponce--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="369707981" ref="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-juan-ponce--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4238584245" ref="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dra_-mayra-castillo--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4075622555" ref="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dra_-mayra-castillo--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="3905394302" ref="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dra_-melanie-proa_o--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4092478967" ref="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dra_-melanie-proa_o--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4093612352" ref="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-juan-pablo-torres--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="170217864" ref="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-juan-pablo-torres--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="411846527" ref="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="index.css" crc="4012885296" ref="index"/>
+    <file name="nomq_index.css" crc="247326012" ref="index"/>
+    <file name="dr_-jos_-rodr_guez--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="391275682" ref="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-jos_-rodr_guez--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4285875535" ref="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="dr_-fausto-maldonado--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4059322538" ref="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="nomq_dr_-fausto-maldonado--centro-cl_nico-quir_rgico-de-obesidad-y-diabetes.css" crc="4046235100" ref="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="museutils.js" crc="3803043152" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="museconfig.js" crc="380897831" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="require.js" crc="4157109226" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+  </folder>
+  <folder name="images">
+    <file name="centro-clínico-quirúrgico-de-obesidad-y-diabetes-favicon.ico" crc="465787497" ref="index"/>
+    <file name="bgcabecera.jpg" crc="506969602" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="logo-inicio.svg" crc="340746450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo inicio_poster_.png" crc="275956004" ref="index"/>
+    <file name="slogan.svg" crc="434562597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slogan_poster_.png" crc="4277912801" ref="index"/>
+    <file name="logo-menu.svg" crc="3808539497" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="logo menu_poster_.png" crc="444387175" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="blank.gif" crc="4208392903" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="docorest.png" crc="355027752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serv1.png" crc="173891377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serv2.png" crc="3786980107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serv3.png" crc="50221082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serv4.png" crc="40676597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tarjeta3.svg" crc="297000856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tarjeta3_poster_.png" crc="4012173198" ref="index"/>
+    <file name="ico-1.svg" crc="3857686968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico 1_poster_.png" crc="4085865989" ref="index"/>
+    <file name="ico2.svg" crc="460836073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico2_poster_.png" crc="3866326384" ref="index"/>
+    <file name="ico3.svg" crc="4077713420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico3_poster_.png" crc="174423478" ref="index"/>
+    <file name="ico4.svg" crc="527151829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico4_poster_.png" crc="4203905394" ref="index"/>
+    <file name="doc1.jpg" crc="3799645879" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico13.svg" crc="4206990675" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico13_poster_.png" crc="4038743963" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="ico5.svg" crc="4068099486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico5_poster_.png" crc="4020335043" ref="index"/>
+    <file name="ico6.svg" crc="30027406" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico6_poster_.png" crc="8256506" ref="index"/>
+    <file name="ico7.svg" crc="3895859120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ico7_poster_.png" crc="3798511783" ref="index"/>
+    <file name="ico11.svg" crc="4175896388" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico11_poster_.png" crc="4029422699" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="ico12.svg" crc="4183418646" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico12_poster_.png" crc="4284656657" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="ico8.svg" crc="92982053" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico8_poster_.png" crc="4054337727" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="ico9.svg" crc="4232371787" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico9_poster_.png" crc="4130493130" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="ico10.svg" crc="100944537" seo="true" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes:dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="ico10_poster_.png" crc="4105049844" ref="index:dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="docorest280x240.png" crc="264201768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-pág.-maestra-favicon.ico" crc="465787497" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes"/>
+    <file name="alex-adrian-maji-padilla.png" crc="167751383" seo="true" ref="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="santiago-josueth-guerrero-méndez.png" crc="4055155798" seo="true" ref="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="melanie-cristina-proaño-parreño.png" crc="4197977659" seo="true" ref="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="juan-paul-ponce-cando.png" crc="101864744" seo="true" ref="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="fausto-maldonado-coronel.png" crc="4167767865" seo="true" ref="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="juan-carlos-velastegui.png" crc="302806232" seo="true" ref="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="mayra-elizabeth-castillo-gonzales.png" crc="4236462878" seo="true" ref="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="jose-rodriguez.png" crc="439314632" seo="true" ref="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+    <file name="juan-pablo-torres.png" crc="4221839559" seo="true" ref="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes">
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+      <caption webpage="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3860103541" seo="true" mt="1598305098899" redirect="true"/>
+  <file name="dr.-alex-maji--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="454211093" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-santiago-guerrero--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="4017272827" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dra.-melanie-proaño--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="57288920" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-juan-ponce--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="516640852" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-fausto-maldonado--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="3999328260" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-juan-velastegui--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="328563100" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dra.-mayra-castillo--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="3939065917" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-josé-rodríguez--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="156569239" seo="true" mt="1598556363199" redirect="true"/>
+  <file name="dr.-juan-pablo-torres--centro-clínico-quirúrgico-de-obesidad-y-diabetes.html" crc="3969537085" seo="true" mt="1598556363199" redirect="true"/>
+</manifest>
